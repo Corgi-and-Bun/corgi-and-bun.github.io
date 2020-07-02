@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Corgi &amp; Bun</title>
-    <link>https://corgi-and-bun.github.io/</link>
-    <description>Recent content on Corgi &amp; Bun</description>
+    <title>meta on Corgi &amp; Bun</title>
+    <link>https://corgi-and-bun.github.io/tags/meta/</link>
+    <description>Recent content in meta on Corgi &amp; Bun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://corgi-and-bun.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://corgi-and-bun.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,24 +26,6 @@
 &lt;p&gt;&lt;strong&gt;Corgi and Bun is about understanding the power dynamics governing our spaces and exploring different frameworks and models for more equitable participation.&lt;/strong&gt; We want to use an intersectional lens to look at how white supremacy culture permeates our communities and organizations to find interventions that can move us towards decolonization and equity.&lt;/p&gt;
 &lt;p&gt;We don’t have all the answers. We are still learning and iterating on our own processes. What we write here are works in progress, not finished ideas to be carved into stone. Our priority is to show our thought processes, our methods, and how we approach different contexts rather than laying out hard rules.&lt;/p&gt;
 &lt;p&gt;But Corgi and Bun isn’t just a blog about management or creativity or even diversity and inclusion. At its core, C&amp;amp;B is a creative partnership—it is about making things, creating and holding space for one another. It is about learning from each other in whatever medium or format allows everyone to shine and finding a path to go beyond mere survival to create a politics of joy and love.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://corgi-and-bun.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://corgi-and-bun.github.io/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://corgi-and-bun.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://corgi-and-bun.github.io/about/</guid>
-      <description>test test test here are some changes Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
