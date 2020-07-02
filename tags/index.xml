@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Corgi &amp; Bun</title>
-    <link>https://corgi-and-bun.github.io/tags/</link>
+    <link>https://corgiandbun.com/tags/</link>
     <description>Recent content in Tags on Corgi &amp; Bun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://corgi-and-bun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://corgiandbun.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>meta</title>
-      <link>https://corgi-and-bun.github.io/tags/meta/</link>
+      <link>https://corgiandbun.com/tags/meta/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://corgi-and-bun.github.io/tags/meta/</guid>
+      <guid>https://corgiandbun.com/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://corgi-and-bun.github.io/tags/index/</link>
+      <link>https://corgiandbun.com/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://corgi-and-bun.github.io/tags/index/</guid>
+      <guid>https://corgiandbun.com/tags/index/</guid>
       <description></description>
     </item>
     
