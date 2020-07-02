@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://corgi-and-bun.github.io/about/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://corgi-and-bun.github.io/about/</guid>
+      <description>Corgi and Bun is a multidisciplinary creative partnership at the intersection of community, love, and decolonization.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://corgi-and-bun.github.io/post/introduction/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
@@ -35,15 +44,6 @@
       
       <guid>https://corgi-and-bun.github.io/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://corgi-and-bun.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://corgi-and-bun.github.io/about/</guid>
-      <description>test test test here are some changes Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
